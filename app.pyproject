@@ -1,0 +1,16 @@
+{
+    "files": [
+        "backend/basic_pulse_analysis.py",
+        "backend/pulse_classification.py",
+        "backend/pulse_segmentation.py",
+        "backend/signal_processing.py",
+        "frontend/BasicInfo.qml",
+        "frontend/CustomChart.qml",
+        "frontend/Main.qml",
+        "frontend/PeakDataContainer.qml",
+        "frontend/SelectDialogWindow.qml",
+        "app.py",
+        "controller/controller.py",
+        "controller/plotter.py"
+    ]
+}

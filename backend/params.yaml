@@ -1,0 +1,7 @@
+segment:
+    processes: 4
+
+classification:
+    model_weights: "classification_model/model_weights.pth"
+    batch_size: 4096
+    gpu: True
